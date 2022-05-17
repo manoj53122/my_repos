@@ -45,7 +45,7 @@ public class AppTest
     }
     public void testApp4()
     {
-        assertTrue( flase );
+        assertTrue( false );
     }
     public void testApp5()
     {
